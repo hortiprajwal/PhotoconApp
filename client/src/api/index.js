@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'https://photoconapp.herokuapp.com/' });
+const API = axios.create({ baseURL: 'https://crazy-pea-coat-bass.cyclic.app' });
+//https://photoconapp.herokuapp.com/
 
 API.interceptors.request.use((req) => {
   if (localStorage.getItem('profile')) {
