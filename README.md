@@ -16,6 +16,14 @@ Facilitated Pagination, Recommended Posts and Post Details Page.<br>
 <b>Tech Stack:<b>
 MERN
 <br>
+<br>
+
+Hosted on:<br>
+Frontend=> Netlify<br>
+BackEnd=> Cyclic
+
+
+
 <b>Images: <b>
 <br>
 <table style="border:1px solid;">
@@ -35,7 +43,7 @@ MERN
   </tr>
   <tr >
     <td style="text-align: center; border:1px solid;padding:1em;">
-        <img width="80%" src="Images/login_page.png">
+        <img width="80%" src="Images/signIn_page.png">
     </td>
   </tr>
 </table>
