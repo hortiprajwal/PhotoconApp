@@ -15,5 +15,38 @@ Facilitated Pagination, Recommended Posts and Post Details Page.<br>
 <br>
 <b>Tech Stack:<b>
 MERN
-
-<b>Images<b>
+<br>
+<b>Images: <b>
+<br>
+<table style="border:1px solid;">
+  <tr >
+    <th style="text-align: center; border:1px solid;">Home Page</th>
+  </tr>
+  <tr >
+    <td style="text-align: center; border:1px solid;padding:1em;">
+        <img width="80%" src="Images/home_page.png">
+    </td>
+  </tr>
+</table>
+  <br>
+<table style="border:1px solid;">
+  <tr >
+    <th style="text-align: center; border:1px solid;">Login Page</th>
+  </tr>
+  <tr >
+    <td style="text-align: center; border:1px solid;padding:1em;">
+        <img width="80%" src="Images/login_page.png">
+    </td>
+  </tr>
+</table>
+  <br>
+<table style="border:1px solid;">
+  <tr >
+    <th style="text-align: center; border:1px solid;">SignUp Page</th>
+  </tr>
+  <tr >
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="Images/signUp_page.png">
+    </td>
+  </tr>
+</table>
